@@ -1,1 +1,1 @@
-# Lab1p
+print("Heloo, Python!")
